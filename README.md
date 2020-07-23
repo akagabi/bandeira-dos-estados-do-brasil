@@ -1,2 +1,2 @@
-# bandeira-dos-estados-do-brasil
-Bandeiras em SVG de todos os estados brasileiros
+# Bandeiras dos Estados do Brasil
+Bandeiras em SVG de todos os estados brasileiros. Cada bandeira foi retirada da página na Wikipedia do estado.
